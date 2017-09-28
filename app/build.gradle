@@ -26,5 +26,5 @@ dependencies {
     compile 'com.android.support:design:26.+'
     testCompile 'junit:junit:4.12'
 //    compile project(':library')
-    compile 'com.github.AriesHoo:GitHubDemo:1.0.1'
+    compile 'com.github.AriesHoo:GitHubDemo:1.0.2'
 }
