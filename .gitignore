@@ -7,3 +7,11 @@
 /build
 /captures
 .externalNativeBuild
+/*.properties
+/*
+/*.iml
+/*.bat
+/app/app.iml
+/app/build
+/library/library.iml
+/library/build
