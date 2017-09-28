@@ -1,0 +1,2 @@
+# GitHubDemo
+GitHubDemo 为介绍Android Studio 上传GitHub并通过JitPack打包的demo工程
